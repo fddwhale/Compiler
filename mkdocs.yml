@@ -1,4 +1,4 @@
-site_name: 编译器实验
+site_name: 编译器
 site_url: https://fddwhale.github.io/Compiler
 theme:
   name: material
